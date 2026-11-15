@@ -80,8 +80,8 @@ If your balance reaches 0, you go bust and the game ends.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Cal800/Baccarat---Java.git Baccarat
+cd Baccarat
 
 # 2. Compile
 javac Main.java
